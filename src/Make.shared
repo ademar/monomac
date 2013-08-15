@@ -55,6 +55,7 @@ SHARED_SOURCE = \
 	./CoreFoundation/CFType.cs			\
 	./CoreGraphics/CGContextPDF.cs			\
 	./CoreGraphics/CGDataProvider-2.cs		\
+	./CoreGraphics/CGDataConsumer.cs		\
 	./CoreGraphics/CGFunction.cs			\
 	./CoreGraphics/CGPDFArray.cs			\
 	./CoreGraphics/CGPDFStream.cs			\
